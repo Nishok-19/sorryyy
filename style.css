@@ -1,0 +1,43 @@
+*{
+    background-color: rgb(112, 111, 111);
+}
+#heading{
+    color: rgb(199, 35, 35);
+    font-weight: bold;
+    text-align: center;
+}
+.topic{
+    color: aquamarine;
+    font-weight: bold;
+    text-align: center;
+}
+.img{
+    height: auto;
+    width: 500px;
+}
+.code{
+    color: pink;
+    text-align: left;
+}
+.yes{
+    background-color: red;
+    color: darksalmon;
+    font-weight: bold;
+    font-size: 25px;
+}
+.no{
+    background-color: rgb(5, 6, 5);
+    color: rgb(213, 15, 190);
+    font-size: 25px;
+    font-weight: bold;
+}
+.content{
+    background-color: hotpink;
+    color: indigo;
+    font-size: 20px;
+}
+div{
+    background-color: black;
+    color: coral;
+    font-size: 20px;
+}
